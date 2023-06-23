@@ -39,12 +39,7 @@ function App() {
   {/********************
   Preloader start
     *********************/}
-  <div id="preloader">
-    <div className="lds-ripple">
-      <div />
-      <div />
-    </div>
-  </div>
+
   {/********************
   Preloader end
     *********************/}
